@@ -16,7 +16,7 @@ function Aboutpage() {
               with a focus on providing the experience for everyone using them
               and responsiveness. Curious to learn more about developing
               scalable distribution systems, love problem solving, and care
-              about writing and maintainable code. !
+              about writing and maintainable code. ! 
             </p>
             <ul className="skilllist">
               <Row>
